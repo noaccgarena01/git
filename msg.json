@@ -9,5 +9,10 @@
   },
   {
     "action": "help"
+  },
+  {
+    "action": "send_mesage",
+    "message": "Goodbye! See you next Monday! :linkpepehype:",
+    "send_time": "2024-10-18T18:15:30"
   }
 ]
