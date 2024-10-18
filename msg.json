@@ -8,6 +8,6 @@
     "action": "get_private_rooms"
   },
   {
-    "action": "say_hello"
+    "action": "help"
   }
 ]
