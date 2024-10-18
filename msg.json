@@ -1,0 +1,7 @@
+[
+  {
+    "action": "send_message",
+    "message": "Hello :blobnomcookie: :)",
+    "room_id": "rocketchat_scheduler"
+  }
+]
