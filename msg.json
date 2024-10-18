@@ -13,6 +13,7 @@
   {
     "action": "send_mesage",
     "message": "Goodbye! See you next Monday! :linkpepehype:",
+    "room_id": "rocketchat_scheduler",
     "send_time": "2024-10-18T18:15:30"
   }
 ]
