@@ -1,7 +1,19 @@
 [
   {
-    "action": "send_mesage",
+    "action": "send_message",
     "message": "Goodbye! See you after! :linkpepehype:",
+    "room_id": "rocketchat_scheduler"
+  },
+  {
+    "action": "send_message",
+    "message": "Send on 2:10PM",
+    "time_send": "2024-10-21T14:10:00",
+    "room_id": "rocketchat_scheduler"
+  },
+  {
+    "action": "send_message",
+    "message": "Send on 1:10PM",
+    "time_send": "2024-10-21T13:10:00",
     "room_id": "rocketchat_scheduler"
   }
 ]
