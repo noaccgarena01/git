@@ -1,14 +1,8 @@
 [
   {
     "action": "send_message",
-    "message": "Hello :blobnomcookie: :)",
+    "message": "Good morning @hoangbh6",
     "room_id": "rocketchat_scheduler"
-  },
-  {
-    "action": "get_private_rooms"
-  },
-  {
-    "action": "help"
   },
   {
     "action": "send_mesage",
