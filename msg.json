@@ -1,7 +1,6 @@
 [
   {
     "action": "get_room_history",
-    "count": "10",
     "room_id": "rocketchat_scheduler"
   }
 ]
