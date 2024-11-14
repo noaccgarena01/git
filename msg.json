@@ -1,9 +1,7 @@
 [
   {
-    "action": "get_room_history",
-    "room_id": "rocketchat_scheduler"
-  },
-  {
-    "action": "get_users"
+    "action": "send_message",
+    "room_id": "rocketchat_scheduler",
+    "message": "Auto message!"
   }
 ]
